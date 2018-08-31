@@ -1,7 +1,15 @@
 # Development
 
+- Requires `Ruby >= 2` 
 - `$ bundle install`
 - `$ bundle exec jekyll serve`
+
+# Adapting the content
+
+- Edit the contact info JSON files in `_data/`
+- Edit your project metadata in `_config.yml`
+- Add new pages as markdown files in `./`
+- Add navigation links in `_includes/page-header.html`
 
 # License
 
