@@ -1,0 +1,18 @@
+# Setup
+title:        CIAS Class Cal
+tagline:      A Software Engineering Senior Project
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Author name
+  url:        http://yourhomepage.com 
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
