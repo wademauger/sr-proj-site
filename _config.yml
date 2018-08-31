@@ -2,12 +2,11 @@
 title:        CIAS Class Cal
 tagline:      A Software Engineering Senior Project
 baseurl:      ""
-paginate:     1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
+  name:       The Team
   url:        http://yourhomepage.com 
 
 # Gems
