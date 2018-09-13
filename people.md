@@ -1,11 +1,14 @@
 ---
 layout: default
 title:  "Welcome to Jekyll!"
+redirect_from: /
 date:   2016-02-12 17:50:00
 categories: main
 ---
 
 # The Team
+
+## [Timesheet](https://docs.google.com/spreadsheets/d/1wiqjc95KVby1mdcQAvUjbeCjhn1wLWUo60Y3Y3QTwco/edit?usp=sharing)
 
 {% for member in site.data.team %}
   {% if member.github == "" %}

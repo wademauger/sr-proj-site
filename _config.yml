@@ -1,17 +1,18 @@
 # Setup
 title:        CIAS Class Cal
-tagline:      A Software Engineering Senior Project
+tagline:      A scheduling system that transcends space and time
 baseurl:      ""
 locale:       "en"
 
 # About/contact
 author:
   name:       The Team
-  url:        http://yourhomepage.com 
+  url:        classcal.se.rit.edu
 
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-redirect-from
 
 #Others
 markdown: kramdown
