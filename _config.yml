@@ -1,13 +1,13 @@
 # Setup
 title:        CIAS Class Cal
 tagline:      A scheduling system that transcends space and time
-baseurl:      ""
+baseurl:      "~classcal"
 locale:       "en"
 
 # About/contact
 author:
   name:       The Team
-  url:        classcal.se.rit.edu
+  url:        se.rit.edu
 
 # Gems
 plugins:
