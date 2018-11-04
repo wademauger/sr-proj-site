@@ -2,12 +2,17 @@
 title:        CIAS Class Cal
 tagline:      A scheduling system that transcends space and time
 baseurl:      "~classcal"
+wholeurl:     "http://www.se.rit.edu/~classcal"
 locale:       "en"
 
 # About/contact
 author:
   name:       The Team
   url:        se.rit.edu
+
+# bundle images
+include:
+  - "_res"
 
 # Gems
 plugins:
